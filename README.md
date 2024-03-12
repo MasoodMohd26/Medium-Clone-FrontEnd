@@ -1,22 +1,4 @@
-Certainly! Listing a project like a Medium website clone on your resume can be a great way to showcase your skills and demonstrate practical experience. Additionally, providing a well-structured README file is essential for anyone who may want to review or contribute to your project. Here's a sample format for your project listing and a README template:
 
-### Project Listing on Resume:
-
-**Project: Medium Clone - Frontend**
-- **Description:** Developed a clone of the Medium website's frontend, showcasing proficiency in HTML, CSS, and JavaScript. Implemented a responsive design for optimal user experience across devices.
-
-- **Key Achievements:**
-  - Replicated the main features and layout of Medium, including article display, navigation, and user interface elements.
-  - Ensured cross-browser compatibility and responsiveness for seamless viewing on various devices.
-
-- **Skills Demonstrated:**
-  - HTML, CSS, JavaScript
-  - Responsive Web Design
-  - Frontend Development
-
----
-
-### README Template:
 
 # Medium Clone - Frontend
 
